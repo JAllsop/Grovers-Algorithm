@@ -17,7 +17,7 @@ Including insight into the following:
 3. Quantum Gates
 
 ## Grover's Algrithm
-This section is used to adance on the basic concepts learned in the first section, and applying it to a useful algorithm. Step by step, the learneres are introduced into the different components of Grover's algorithm and their interconnection. The section conlcudes with testing the developed circuitry through simulators and actual quantum devices. This teaches, using experience, how a qantum algorithm and circuit may be affected in operating conditions.
+This section is used to advance on the basic concepts learned in the first section, applying them to a useful algorithm. Step by step, learners are introduced to the different components of Grover's algorithm and their interconnections. The section concludes with testing the developed circuitry through simulators and actual quantum devices. This teaches, using experience, how a quantum algorithm and circuit may be affected in operating conditions.
 
 ## Requirements:
 [Qiskit/Anaconda Installation Guide](https://www.youtube.com/watch?v=M4EkW4VwhcI&ab_channel=Qiskit)  
